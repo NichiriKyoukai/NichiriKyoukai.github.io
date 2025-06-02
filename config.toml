@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "nichirikyoukai.github.io"
+base_url = "https://nichirikyoukai.github.io"
 title = "日利協会"
 description = "الجمعية الليبية اليابانية"
 author="الجمعية الليبية اليابانية"
