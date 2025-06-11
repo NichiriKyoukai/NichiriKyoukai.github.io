@@ -1,0 +1,33 @@
+/* rtl.css */
+body {
+    direction: rtl;
+    text-align: right;
+  }
+  
+  main, header, footer, nav {
+    direction: rtl;
+    text-align: right;
+  }
+  
+  ul, ol {
+    padding-right: 1.5rem;
+    padding-left: 0;
+  }
+  
+  h1, h2, h3, h4, h5, h6, p {
+    text-align: right;
+  }
+  
+  /* Optional: Logical spacing */
+  * {
+    margin-inline-start: 0;
+    margin-inline-end: auto;
+  }
+  
+  /* Font for Arabic (optional) */
+  @import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+  
+  body {
+    font-family: 'Amiri', serif;
+  }
+  
